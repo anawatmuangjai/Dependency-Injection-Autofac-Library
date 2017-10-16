@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScenarioWithoutDependencyInjection", "ScenarioWithoutDependencyInjection\ScenarioWithoutDependencyInjection.csproj", "{FEE7AA3B-A82B-4D20-B450-6A3F4170B18E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegisteringTypes", "RegisteringTypes\RegisteringTypes.csproj", "{DBE56FB3-ED2E-4DD3-8538-95632577D431}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FEE7AA3B-A82B-4D20-B450-6A3F4170B18E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEE7AA3B-A82B-4D20-B450-6A3F4170B18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEE7AA3B-A82B-4D20-B450-6A3F4170B18E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE56FB3-ED2E-4DD3-8538-95632577D431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE56FB3-ED2E-4DD3-8538-95632577D431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE56FB3-ED2E-4DD3-8538-95632577D431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE56FB3-ED2E-4DD3-8538-95632577D431}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
